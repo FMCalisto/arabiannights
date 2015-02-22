@@ -58,3 +58,7 @@ g++ -o an MagicLamp.o main.o
  Recyclable demon has granted 2 wishes.
  Grumpy genie has a wish to grant.
  ```
+
+#### Acknowledgment
+
+Professor David Matos
